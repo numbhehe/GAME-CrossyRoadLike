@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1687477816 source:c:\users\matgo\onedrive\documents\codeblocks\projekt\main.cpp
+	<iostream>
+	<conio.h>
+	<dos.h>
+	<windows.h>
+	<time.h>
+	<fstream>
+
+1687477818 source:g:\projekt\main.cpp
+	<iostream>
+	<conio.h>
+	<dos.h>
+	<windows.h>
+	<time.h>
+	<fstream>
+
+1687477818 source:f:\projekt\main.cpp
+	<iostream>
+	<conio.h>
+	<dos.h>
+	<windows.h>
+	<time.h>
+	<fstream>
+
+1687477818 source:c:\users\matgo\onedrive\pulpit\pendrive\projekt\main.cpp
+	<iostream>
+	<conio.h>
+	<dos.h>
+	<windows.h>
+	<time.h>
+	<fstream>
+
